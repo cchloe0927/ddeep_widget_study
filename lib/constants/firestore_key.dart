@@ -1,0 +1,2 @@
+/// FIREBASE APP INFO
+const KEY_APP_INFO_COL = 'appInfo';
