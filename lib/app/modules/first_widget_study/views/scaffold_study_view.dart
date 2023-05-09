@@ -65,7 +65,7 @@ class ScaffoldStudyView extends GetView<FirstWidgetStudyController> {
           // 수정
 
           // floatingActionButton 의 위치를 설정하는 속성
-          floatingActionButtonLocation: FloatingActionButtonLocation.endContained,
+          //floatingActionButtonLocation: FloatingActionButtonLocation.endContained,  여기 endContained가 자꾸 에러나서 주석처리했어요~
 
           // floatingActionButton 을 눌렀을 때 나오는 애니매이션 효과 속성
           floatingActionButtonAnimator: FloatingActionButtonAnimator.scaling,
